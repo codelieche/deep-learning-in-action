@@ -1,0 +1,15 @@
+
+.python-version
+.DS_Store
+
+.idea/
+/data
+/models
+temp
+uploads/
+__pycache__/
+.ipynb_checkpoints/
+
+flagged/
+/notebook/**/flagged/
+
