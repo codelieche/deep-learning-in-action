@@ -22,6 +22,14 @@
 
   > 执行上面语句后，环境中也会自动安装好`pillow`，`numpy`了
 
+  **注意：**如果使用`conda install`
+
+  ```bash
+  conda install pytorch::pytorch torchvision torchaudio -c pytorch
+  ```
+
+  
+
 - 安装Jupyter Notebook
 
   ```bash
