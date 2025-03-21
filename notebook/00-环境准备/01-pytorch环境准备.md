@@ -26,6 +26,7 @@
 
   ```bash
   conda install pytorch::pytorch torchvision torchaudio -c pytorch
+  conda install anaconda::jupyter
   ```
 
   

@@ -76,6 +76,8 @@
 
 #### 2.3 创建python环境
 
+- 还是习惯用pip安装包，那就先用pip安装包不要混用安装命令
+
 - 我们创建`deep-learning-in-action`名字的环境
 
   ```bash
@@ -91,6 +93,7 @@
 - 安装依赖包：
 
   ```bash
+   conda install anaconda::jupyter
    conda install pytorch::pytorch torchvision torchaudio -c pytorch
    
    conda install numpy pandas matplotlib

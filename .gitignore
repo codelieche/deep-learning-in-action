@@ -2,14 +2,26 @@
 .python-version
 .python-conda
 .DS_Store
+test.wav
 
 .idea/
 /data
+/projects
+GPT_SoVITS
+apps/audio/text_to_speech.py
+apps/webui/audio_asr/widgets/inference_tab.py
+
 /models
 temp
 uploads/
 __pycache__/
 .ipynb_checkpoints/
+
+# 临时忽略一下
+apps/audio
+apps/GPT*
+apps/tools
+apps/webui
 
 flagged/
 output
